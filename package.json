@@ -1,0 +1,20 @@
+{
+  "name": "rock_paper_scissors",
+  "version": "1.0.0",
+  "description": "a game of rock, paper, scissors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "game",
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "Ryan-Caruth",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
